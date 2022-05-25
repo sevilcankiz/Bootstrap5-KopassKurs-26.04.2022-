@@ -1,0 +1,12 @@
+.myFooter{
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+}
+
+.bgimage{
+    height: 50vh;
+    background: url("/img/casual-life-crystal.png") no-repeat;
+    background-size: cover;
+    position: relative;
+}
